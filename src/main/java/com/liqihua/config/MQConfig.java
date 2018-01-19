@@ -21,7 +21,7 @@ public class MQConfig {
     }
 
 
-
+/*
     //定义一条叫queueA的消息队列
     @Bean
     public Queue queueA() {
@@ -166,7 +166,7 @@ public class MQConfig {
 
 
 
-
+*/
 
 
 

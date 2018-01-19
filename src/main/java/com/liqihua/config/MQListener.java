@@ -8,7 +8,7 @@ import java.util.Map;
 
 @Component
 public class MQListener {
-	
+	/*
 	//消费者：从队列queueA接收消息
 	@RabbitListener(queues="queueA")
 	public void receiverA1(String msg) {
@@ -148,5 +148,5 @@ public class MQListener {
 		return obj;
 	}
 	////////////////////////点对点（同步获取返回值，传递对象） - end //////////////////////////
-	
+	*/
 }
